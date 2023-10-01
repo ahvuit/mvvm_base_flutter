@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "title_app": "mvvm_base",
+  "increment": "Increment",
+  "home_page": "Home",
+  "order": "Order",
+  "activities": "Activities",
+  "stores": "Stores",
+  "others": "Others"
+}

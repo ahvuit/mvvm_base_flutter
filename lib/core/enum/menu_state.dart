@@ -1,0 +1,1 @@
+enum MenuState {home, order, activities, stores, others}
